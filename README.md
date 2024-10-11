@@ -1,6 +1,6 @@
 # Crowdfunding Website
 
-Full-Stack Crowdfunding Website Built with Go, Vue JS, and Nuxt JS
+Back-end Crowdfunding Website Built with Go
 
 ## Requirements
 Before you begin, ensure you have the following installed on your system:
